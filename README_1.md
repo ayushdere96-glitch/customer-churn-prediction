@@ -1,8 +1,8 @@
-# 📉 Customer Churn Prediction
+#  Customer Churn Prediction
 
 A machine learning project that predicts which telecom customers are likely to leave, and suggests what a company can do to keep them. It includes a full data analysis notebook and an interactive **Streamlit app**.
 
-**🔗 Live app:** [PASTE YOUR STREAMLIT LINK HERE]
+**🔗 Live app:** [https://customer-churn-prediction-esmabhde7rvmazjk6pkjrd.streamlit.app/]
 
 ---
 
@@ -14,7 +14,7 @@ Getting a new customer costs much more than keeping an existing one. If a compan
 
 - **IBM Telco Customer Churn dataset**
 - Each row is one customer: their services, contract, charges and whether they left (churn).
-- Source: [ADD DATASET LINK]
+
 
 ## What I did
 
@@ -30,7 +30,7 @@ Getting a new customer costs much more than keeping an existing one. If a compan
 
 | Model | ROC-AUC |
 |---|---|
-| Logistic Regression | [ADD VALUE] |
+| Logistic Regression | [0.833] |
 | **Random Forest (selected)** | **~0.844** |
 
 ## The Streamlit app
@@ -74,7 +74,7 @@ Python · pandas · NumPy · scikit-learn · imbalanced-learn · Plotly · Strea
 └── README.md
 ```
 
-*(Change the file names to match your repo.)*
+
 
 ## How to run it on your computer
 
@@ -97,14 +97,11 @@ streamlit run app.py
 - Add more input features to the app.
 - Try other models and tune them further.
 
-## Team
-
-This was a TYBCA group project at BSIOTR, JSPM Wagholi, Pune.
+## Build By 
 
 - Ayush Dere
-- Amit Surwase
-- Adesh Dhawale
+
 
 ## Contact
 
-**Ayush Dere**: [LINKEDIN LINK] · [EMAIL]
+**Ayush Dere**: [https://www.linkedin.com/in/ayush-dere-661907308] · [ayushdere96@gmail.com]
