@@ -30,7 +30,7 @@ Getting a new customer costs much more than keeping an existing one. If a compan
 
 | Model | ROC-AUC |
 |---|---|
-| Logistic Regression | [0.833] |
+| Logistic Regression | **~0.833** |
 | **Random Forest (selected)** | **~0.844** |
 
 ## The Streamlit app
